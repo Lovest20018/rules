@@ -1,4 +1,7 @@
+payload:
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,pub4.emby.wtf
+  - DOMAIN-SUFFIX,pornemby.ssltd.xyz
+  - DOMAIN-SUFFIX,emby.ssltd.xyz
