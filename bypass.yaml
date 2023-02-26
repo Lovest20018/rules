@@ -47,7 +47,7 @@ custom_proxy_group=🇺🇲 美国节点`select`(USA|美国)
 custom_proxy_group=🇸🇬 狮城节点`select`(SG|新加坡|坡|狮城|Singapore)
 custom_proxy_group=🇨🇳 台湾节点`select`(台湾|cn|🇨🇳|TW|Taiwan)
 custom_proxy_group=🇰🇷 韩国节点`select`(KR|Korea|KOR|韩)
-custom_proxy_group=🇺🇳 其他节点`select`(nl|ru|de|fr|ch|gb|se|bg|at|ie|tr|hu|au|in|id|br|ar|cl|🇬🇧|🇩🇪|🇦🇺|🇷🇺|🇳🇱|🇳🇿|🇧🇷|🇦🇷|🇹🇷|🇵🇭|🇹🇭|🇨🇦|🇪🇬|🇲🇾|🇻🇳|🇮🇩|🇪🇸|🇫🇷)
+custom_proxy_group=🇺🇳 其他节点`select`(nl|ru|de|fr|ch|gb|Sweden|bg|at|ie|tr|hu|au|India|id|br|ar|cl|🇬🇧|🇩🇪|🇦🇺|🇷🇺|🇳🇱|🇳🇿|🇧🇷|🇦🇷|🇹🇷|🇵🇭|🇹🇭|🇨🇦|🇪🇬|🇲🇾|🇻🇳|🇮🇩|🇪🇸|🇫🇷)
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`
 
 
