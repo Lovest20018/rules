@@ -28,13 +28,6 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 
 custom_proxy_group=🚀 节点选择`select`.*`[]DIRECT
-custom_proxy_group=🇭🇰 香港节点`select`(hk|🇭🇰|Hong Kong)
-custom_proxy_group=🇯🇵 日本节点`select`(日本|jp|Japan)
-custom_proxy_group=🇺🇲 美国节点`select`(USA|us|🇺🇸|美国)
-custom_proxy_group=🇸🇬 狮城节点`select`(SG|新加坡|坡|狮城|Singapore)
-custom_proxy_group=🇨🇳 台湾节点`select`(台湾|cn|🇨🇳|TW|Taiwan)
-custom_proxy_group=🇰🇷 韩国节点`select`(KR|Korea|KOR|韩)
-custom_proxy_group=🇺🇳 其他节点`select`(nl|ru|de|fr|ch|gb|se|bg|at|ie|tr|hu|au|in|id|br|ar|cl|🇬🇧|🇩🇪|🇦🇺|🇷🇺|🇳🇱|🇳🇿|🇧🇷|🇦🇷|🇹🇷|🇵🇭|🇹🇭|🇨🇦|🇪🇬|🇲🇾|🇻🇳|🇮🇩|🇪🇸|🇫🇷)
 custom_proxy_group=📹 YouTube`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
 custom_proxy_group=📺 Netflix`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
 custom_proxy_group=🎥 Disney+`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
@@ -48,6 +41,13 @@ custom_proxy_group=🍎 Apple`select`[]🚀 节点选择`[]🇭🇰 香港节点
 custom_proxy_group=🍚️ Google`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
 custom_proxy_group=📲 Telegram`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
+custom_proxy_group=🇭🇰 香港节点`select`(hk|🇭🇰|Hong Kong)
+custom_proxy_group=🇯🇵 日本节点`select`(日本|jp|Japan)
+custom_proxy_group=🇺🇲 美国节点`select`(USA|us|🇺🇸|美国)
+custom_proxy_group=🇸🇬 狮城节点`select`(SG|新加坡|坡|狮城|Singapore)
+custom_proxy_group=🇨🇳 台湾节点`select`(台湾|cn|🇨🇳|TW|Taiwan)
+custom_proxy_group=🇰🇷 韩国节点`select`(KR|Korea|KOR|韩)
+custom_proxy_group=🇺🇳 其他节点`select`(nl|ru|de|fr|ch|gb|se|bg|at|ie|tr|hu|au|in|id|br|ar|cl|🇬🇧|🇩🇪|🇦🇺|🇷🇺|🇳🇱|🇳🇿|🇧🇷|🇦🇷|🇹🇷|🇵🇭|🇹🇭|🇨🇦|🇪🇬|🇲🇾|🇻🇳|🇮🇩|🇪🇸|🇫🇷)
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`
 
 
