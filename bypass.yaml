@@ -5,6 +5,7 @@ ruleset=🍚️ Google,clash-classic:https://ghproxy.com/https://raw.githubuserc
 ruleset=🍚️ Google,clash-classic:https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleDrive/GoogleDrive.yaml
 ruleset=⌨️ Microsoft,clash-classic:https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml
 ruleset=🍎 Apple,clash-classic:https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.yaml
+ruleset=🤖 ChatGPT,clash-classic:https://ghproxy.com/https://raw.githubusercontent.com/wgetnz/chatgpt-openclash/main/chatgpt.list
 ruleset=📲 Telegram,clash-classic:https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml
 ruleset=🎮 Game,clash-classic:https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.yaml
 ruleset=📹 YouTube,clash-classic:https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml
@@ -20,18 +21,19 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 
 custom_proxy_group=🚀 节点选择`select`.*`[]DIRECT
-custom_proxy_group=📹 YouTube`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=📺 Netflix`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=🎥 Disney+`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=🧬 MisakaF`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=🎞 Emby`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=🎬 Streaming`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=👓 StreamingCN`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=🎮 Game`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=⌨️ Microsoft`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=🍎 Apple`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=🍚️ Google`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
-custom_proxy_group=📲 Telegram`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
+custom_proxy_group=📹 YouTube`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=📺 Netflix`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🎥 Disney+`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🧬 MisakaF`select`[][]DIRECT`🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🎞 Emby`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🎬 Streaming`select`[]DIRECT`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=👓 StreamingCN`select`[]DIRECT`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🎮 Game`select`[]DIRECT`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=⌨️ Microsoft`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🤖 ChatGPT`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🍎 Apple`select`[]DIRECT`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=🍚️ Google`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
+custom_proxy_group=📲 Telegram`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 狮城节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇺🇳 其他节点`[]DIRECT
 custom_proxy_group=🇭🇰 香港节点`select`(hk|🇭🇰|Hong Kong)
 custom_proxy_group=🇯🇵 日本节点`select`(日本|jp|Japan)
@@ -45,4 +47,3 @@ custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`
 
 enable_rule_generator=true
 overwrite_original_rules=true
-
