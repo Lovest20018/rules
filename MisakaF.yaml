@@ -1,5 +1,5 @@
-payload:
-  - DOMAIN,embyvip.misakaf.org
-  - DOMAIN,2333.123456.al
-  - DOMAIN,emby.misakaf.org
-  - DOMAIN,cdn.misakaf.org
+
+DOMAIN,embyvip.misakaf.org
+DOMAIN,2333.123456.al
+DOMAIN,emby.misakaf.org
+DOMAIN,cdn.misakaf.org
