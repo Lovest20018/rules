@@ -1,2 +1,3 @@
-DOMAIN,pornemby.ssltd.xyz
-DOMAIN,emby.ssltd.xyz
+payload:
+  - DOMAIN,pornemby.ssltd.xyz
+  - DOMAIN,emby.ssltd.xyz
