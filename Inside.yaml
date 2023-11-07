@@ -1,6 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,lovest.fun
-  - DOMAIN-SUFFIX,lovest.fun
-  - IP-CIDR,39.175.81.200/32,no-resolve
-  - IP-CIDR,111.3.99.165/32,no-resolve
-  - IP-CIDR,111.3.99.166/32,no-resolve
