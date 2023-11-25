@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN,pornemby.ssltd.xyz
-  - DOMAIN,emby.ssltd.xyz
-  - DOMAIN,emby.misakaf.org
-  - DOMAIN,cdn.misakaf.org
-  - DOMAIN,pilipiliultra.top
-  - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN-SUFFIX,pornemby.ssltd.xyz
+  - DOMAIN-SUFFIX,emby.ssltd.xyz
+  - DOMAIN-SUFFIX,emby.misakaf.org
+  - DOMAIN-SUFFIX,cdn.misakaf.org
+  - DOMAIN-SUFFIX,pilipiliultra.top
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com
