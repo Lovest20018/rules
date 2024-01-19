@@ -14,7 +14,7 @@ proxy-providers:
 
 proxy-groups:
 
-  - {name: 👑 奶昔Pre, type: select, use: [🛫 Nexitally], filter: "^(Hong Kong 22 Premium|.*Premium)"}
+  - {name: 👑 奶昔Pre, type: select, use: [🛫 Nexitally], filter: "Premium"}
 
   - {name: 🇸🇬 狮城节点, type: select, use: [🛫 Nexitally, 🛫 Godetia], filter: "SG|新加坡|坡|狮城|Singapore"}
 
