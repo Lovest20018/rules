@@ -45,7 +45,7 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openaicom-api
-    - DOMAIN,ai.google.dev
+  - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,makersuite.google.com
@@ -55,5 +55,3 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - IP-CIDR,24.199.123.28/32
-  - IP-CIDR,64.23.132.171/32
