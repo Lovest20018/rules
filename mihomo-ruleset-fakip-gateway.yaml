@@ -24,8 +24,6 @@ proxy-groups:
   
   - {name: 📹 YouTube, type: select, proxies: [👑 奶昔Pre, 🏆 Nexitally, 🏅 Godetia]}
 
-  - {name: 📺 Netflix, type: select, proxies: [🇸🇬 狮城节点, 👑 奶昔Pre, 🏆 Nexitally, 🏅 Godetia]}
-
   - {name: 🐹 Disney+, type: select, proxies: [🇸🇬 狮城节点, 👑 奶昔Pre, 🏆 Nexitally, 🏅 Godetia]}
   
   - {name: 🛩 Telegram, type: select, proxies: [👑 奶昔Pre, 🏆 Nexitally, 🏅 Godetia]}
@@ -92,8 +90,8 @@ rule-providers:
 
   AI:
     type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/DustinWin/ruleset_geodata@clash/ai.yaml"
+    behavior: classical
+    url: "https://raw.githubusercontent.com/Lovest20018/rules/main/ai.yaml"
     path: ./ruleset/AI.yaml
 
 
@@ -128,7 +126,6 @@ rule-providers:
 
 rules:
   - RULE-SET,youtube,📹 YouTube
-  - RULE-SET,netflix,📺 Netflix
   - RULE-SET,Disney,🐹 Disney+
   - RULE-SET,Telegram,🛩 Telegram
   - RULE-SET,AI,🤖 人工智能
